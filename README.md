@@ -1,14 +1,10 @@
 <a name="readme-top"></a>
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="">
-    <img src="ai_campers1.png" alt="Logo" width="200" height="200">
+    <img src="ai_campers1.png" alt="Logo" width="150" height="150">
   </a>
 
   <h3 align="center">AI CAMPERS</h3>
@@ -18,8 +14,6 @@
     
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -53,6 +47,8 @@
 ## About The Project
 
 ![Team][ai_campers_team]
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
