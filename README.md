@@ -48,7 +48,7 @@
 
 ![Team][ai_campers_team]
 
-[![Hande ÇELEBİ][linkedin-shield]][linkedin-url]
+[![Hande ÇELEBİ]][linkedin-url]
 [![Anıl Can ÖZGÖK][linkedin-shield]][linkedin-url]
 [![Azime ARIKAYA][linkedin-shield]][linkedin-url]
 [![Emre ÖZ][linkedin-shield]][linkedin-url]
