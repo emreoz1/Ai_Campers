@@ -49,8 +49,11 @@
 ![Team][ai_campers_team]
 
 Hande ÇELEBİ - [Linkedin](https://www.linkedin.com/in/hande-%C3%A7elebi-5572461b8/)
+
 Anıl Can ÖZGÖK - [Linkedin](https://www.linkedin.com/in/an%C4%B1l-can-%C3%B6zg%C3%B6k/)
+
 Azime ARIKAYA - [Linkedin](https://www.linkedin.com/in/azime-arikaya-69a766219/)
+
 Emre ÖZ - [Linkedin](https://www.linkedin.com/in/emre-oz/)
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
