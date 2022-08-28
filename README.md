@@ -77,8 +77,22 @@ This section contains all libraries used in the project.
 
 * Pandas
   ```sh
-  npm install npm@latest -g
+  import pandas as pd
   ```
+* Pandas
+  ```sh
+  import pandas as pd
+  ``` 
+* Pandas
+  ```sh
+  import pandas as pd
+  ```
+* Pandas
+  ```sh
+  import pandas as pd
+  ``` 
+  
+  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
