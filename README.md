@@ -22,13 +22,14 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
+        <li><a href="#project-content">Project Content</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Model Selection</a>
+      <a href="#model-selection">Model Selection</a>
       <ul>
-        <li><a href="#prerequisites">Best Performing Model - Polynomial Regression</a></li>
+        <li><a href="#best-performing-model---polynomial-regression">Best Performing Model - Polynomial Regression</a></li>
       </ul>
     </li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
