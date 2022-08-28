@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="#">
+  <a>
     <img src="ai_campers1.png" alt="Logo" width="150" height="150">
   </a>
 
@@ -46,7 +46,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Team][ai_campers_team]
+  <a>
+    <img src="ai_campers_team.png" alt="Team">
+  </a>
 
 Hande ÇELEBİ - [Linkedin](https://www.linkedin.com/in/hande-%C3%A7elebi-5572461b8/)
 
