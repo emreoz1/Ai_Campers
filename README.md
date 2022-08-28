@@ -58,6 +58,8 @@ Azime ARIKAYA - [Linkedin](https://www.linkedin.com/in/azime-arikaya-69a766219/)
 
 Emre ÖZ - [Linkedin](https://www.linkedin.com/in/emre-oz/)
 
+ ### Project Content
+ 
 The aim of the project is to estimate the approximate cost of a person's health insurance based on the given variables. For this purpose, we built the infrastructure of the project with python. It is because python has library support and is easy to use.
 
 
