@@ -90,13 +90,11 @@ This section contains all libraries used in the project.
 <!-- GETTING STARTED -->
 ## Model Selection
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+At this stage, we tried a total of 4 models. These are: Linear Regression, Polynomial Regression, Lasso Regression and Ridge Regression. As a result, the model with the highest R2 value was Polynomial Regression.
 
 ### Best Performing Model - Polynomial Regression
 
-This is an example of how to list things you need to use the software and how to install them.
-* 
+* R2: 0.8411925923335958
   ```sh
   from sklearn.preprocessing import PolynomialFeatures
 
