@@ -88,17 +88,29 @@ This section contains all libraries used in the project.
   ```
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Model Selection
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### Best Performing Model - Polynomial Regression
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+* 
   ```sh
-  npm install npm@latest -g
+  from sklearn.preprocessing import PolynomialFeatures
+
+  poly_reg = PolynomialFeatures(degree=5)
+
+  X_poly = poly_reg.fit_transform(X)
+  pol_reg = LinearRegression()
+  poly = pol_reg.fit(X_poly, y)
+
+  y_poly_pred = pol_reg.predict(X_poly)
+
+  print(f"R2: {r2_score(y,y_poly_pred)}")
+  print(f"MAE: {mean_absolute_error(y,y_poly_pred)}")
+  print(f"MSE: {mean_squared_error(y,y_poly_pred)}")
   ```
 
 <!-- ACKNOWLEDGMENTS -->
