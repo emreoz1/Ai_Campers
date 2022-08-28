@@ -48,7 +48,10 @@
 
 ![Team][ai_campers_team]
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Hande ÇELEBİ][linkedin-shield]][linkedin-url]
+[![Anıl Can ÖZGÖK][linkedin-shield]][linkedin-url]
+[![Azime ARIKAYA][linkedin-shield]][linkedin-url]
+[![Emre ÖZ][linkedin-shield]][linkedin-url]
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
