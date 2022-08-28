@@ -12,14 +12,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="#">
+  <a href="">
     <img src="ai_campers.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">AI CAMPERS</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    AI Summer Camp '22 - Medical Cost Analysis
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
