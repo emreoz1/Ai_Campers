@@ -79,18 +79,22 @@ This section contains all libraries used in the project.
   ```sh
   import pandas as pd
   ```
-* Pandas
+* Numpy
   ```sh
-  import pandas as pd
+  import numpy as nm
   ``` 
-* Pandas
+* Seaborn
+  ```sh
+  import seaborn as sb
+  ```
+* Matplot
   ```sh
   import pandas as pd
   ```
-* Pandas
+* Sklearn
   ```sh
-  import pandas as pd
-  ``` 
+  import sklearn as sk
+  ```
   
   
 
