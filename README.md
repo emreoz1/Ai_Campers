@@ -75,7 +75,10 @@ Use the `BLANK_README.md` to get started.
 
 This section contains all libraries used in the project.
 
-<i class="fab fa-python"></i>
+* Pandas
+  ```sh
+  npm install npm@latest -g
+  ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
