@@ -69,8 +69,6 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 Use the `BLANK_README.md` to get started.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ### Built With
@@ -97,12 +95,6 @@ This section contains all libraries used in the project.
   ```sh
   import sklearn as sk
   ```
-  
-  
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -127,10 +119,3 @@ Use this space to list resources you find helpful and would like to give credit 
 * [Gülcan Öğündür](https://medium.com/@gulcanogundur/model-se%C3%A7imi-k-fold-cross-validation-4635b61f143c)
 * [Yasin Güneş](https://www.linkedin.com/in/yasin-g%C3%BCne%C5%9F-3864631b5/)
 * [Günel Alizada](https://www.linkedin.com/in/gunelalizada/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-[ai_campers_team]: ai_campers_team.png
