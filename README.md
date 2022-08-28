@@ -75,7 +75,7 @@ Use the `BLANK_README.md` to get started.
 
 This section contains all libraries used in the project.
 
-* <i class="fab fa-python"></i>
+<i class="fab fa-python"></i>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
