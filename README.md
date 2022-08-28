@@ -60,9 +60,7 @@ Emre ÖZ - [Linkedin](https://www.linkedin.com/in/emre-oz/)
 
  ### Project Content
  
-The aim of the project is to estimate the approximate cost of a person's health insurance based on the given variables. For this purpose, we built the infrastructure of the project with python. It is because python has library support and is easy to use.
-
-
+The aim of the project is to estimate the approximate cost of a person's health insurance based on the given variables. For this purpose, we built the infrastructure of the project with python. It is because python has library support and is easy to use. We performed exploratory data analysis with the data set given to us. We chose the most suitable model according to the data obtained afterwards.
 
 ### Built With
 
@@ -106,7 +104,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Here are the resources we used in the construction of this project. Thank you very much.
 
 * [Global AI Hub](https://globalaihub.com/ai-summer-camp-22/)
 * [Gülcan Öğündür](https://medium.com/@gulcanogundur/model-se%C3%A7imi-k-fold-cross-validation-4635b61f143c)
