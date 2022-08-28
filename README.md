@@ -58,16 +58,7 @@ Azime ARIKAYA - [Linkedin](https://www.linkedin.com/in/azime-arikaya-69a766219/)
 
 Emre ÖZ - [Linkedin](https://www.linkedin.com/in/emre-oz/)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+The aim of the project is to estimate the approximate cost of a person's health insurance based on the given variables. For this purpose, we built the infrastructure of the project with python. It is because python has library support and is easy to use.
 
 
 
@@ -119,3 +110,4 @@ Use this space to list resources you find helpful and would like to give credit 
 * [Gülcan Öğündür](https://medium.com/@gulcanogundur/model-se%C3%A7imi-k-fold-cross-validation-4635b61f143c)
 * [Yasin Güneş](https://www.linkedin.com/in/yasin-g%C3%BCne%C5%9F-3864631b5/)
 * [Günel Alizada](https://www.linkedin.com/in/gunelalizada/)
+* [Kaggle Data Set](https://www.kaggle.com/datasets/mirichoi0218/insurance)
